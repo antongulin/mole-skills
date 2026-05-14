@@ -66,11 +66,19 @@ mo uninstall --dry-run AppName      # Preview before uninstalling
 
 ### Using the Skills CLI (recommended)
 
+**Project scope** (default) — installs locally in the current project:
+
 ```bash
 npx skills add antongulin/mole-skills
 ```
 
-This automatically detects your installed coding agents and installs the skills to the right directories. See [skills.sh](https://skills.sh) for more options.
+**Global scope** (`-g`) — available across all projects:
+
+```bash
+npx skills add antongulin/mole-skills -g
+```
+
+The CLI automatically detects your installed coding agents. See [skills.sh](https://skills.sh) for more options.
 
 ### Manual
 
