@@ -4,6 +4,7 @@
 
 AI agent skills for [Mole](https://github.com/tw93/Mole) — macOS system maintenance CLI
 
+[![skills.sh](https://skills.sh/b/antongulin/mole-skills)](https://skills.sh/antongulin/mole-skills)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 </div>
